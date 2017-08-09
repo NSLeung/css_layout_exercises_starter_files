@@ -10,3 +10,18 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+main img {
+	width: 400px;
+	height: 400px;
+	padding-top:  20px;
+	padding-bottom:  20px;	
+}
+main .nebimg {
+	float: left;
+	padding-right:  20px;
+	
+}
+main .neb2img {
+	float: right;
+	padding-left:  20px;
+	}
